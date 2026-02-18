@@ -1,4 +1,5 @@
-👋 I'm Aaron, M1 student in **Distributed Artificial Intelligence** @ Université Paris Cité — passionate about symbolic AI, multi-agent systems, and deep learning. Open to internships & collaborations.
+👋 I'm Aaron, M1 student in **Distributed Artificial Intelligence** at Université Paris Cité.
+Open to internships & collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaidoudi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaidoudi@gmail.com)
@@ -36,4 +37,4 @@
 
 <br>
 
-> **Note:** Check out some of my recent work below 👇
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff)](https://github.com/aaidoudi91)
