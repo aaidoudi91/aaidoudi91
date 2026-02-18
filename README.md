@@ -1,6 +1,7 @@
 👋 I'm Aaron, M1 student in Distributed Artificial Intelligence at Université Paris Cité. My core interests & work involve: Symbolic AI, Machine Learning, Multi-Agent Systems, Data Science, and Generative AI.
 
 🤝 Open to internships & collaborations.
+
 ---
 
 #### Languages
