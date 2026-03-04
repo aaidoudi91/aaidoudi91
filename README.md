@@ -36,6 +36,3 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
-[![Statistiques de Aaron](https://github-readme-stats-sigma-five.vercel.app/api?username=aaidoudi91&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aaidoudi91&theme=vision-friendly-dark)](https://git.io/streak-stats)
