@@ -36,9 +36,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
+[![Statistiques de Aaron](https://github-readme-stats-sigma-five.vercel.app/api?username=aaidoudi91&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 Statistiques d'activité
-![Metrics de Aaron](https://metrics.lecoq.io/aaidoudi91?template=classic&base=header,activity,community,repositories&base.indepth=true&config.timezone=Europe/Paris)
-
-### 💻 Langages les plus utilisés
-![Langages](https://metrics.lecoq.io/aaidoudi91?template=classic&base=false&plugin_languages=yes&plugin_languages_limit=8&plugin_languages_sections=most-used&plugin_languages_details=percentage)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aaidoudi91&theme=vision-friendly-dark)](https://git.io/streak-stats)
