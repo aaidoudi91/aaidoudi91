@@ -2,14 +2,14 @@
 
 🤝 Open to internships & collaborations.
 &nbsp;
-<a href="https://www.linkedin.com/in/aaidoudi">
+<a href="https://www.linkedin.com/in/aaidoudi" style="text-decoration:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-       height="17" alt="LinkedIn" style="vertical-align: middle;">
+       height="18">
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/aaidoudi">
+<a href="https://www.kaggle.com/aaidoudi" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF"
-       height="20" alt="Kaggle" style="vertical-align: middle;">
+       height="18">
 </a>
 
 ---
