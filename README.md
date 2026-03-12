@@ -1,8 +1,16 @@
 👋 I'm Aaron, M1 student in Distributed Artificial Intelligence at Université Paris Cité. My core interests & work involve: Symbolic AI, Machine Learning, Multi-Agent Systems, Generative AI, and Data Science.
 
 🤝 Open to internships & collaborations.
-<a href="https://www.linkedin.com/in/aaidoudi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" align="center"></a>
-<a href="https://www.kaggle.com/aaidoudi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" align="center"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aaidoudi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       height="17" alt="LinkedIn" style="vertical-align: middle;">
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/aaidoudi">
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF"
+       height="20" alt="Kaggle" style="vertical-align: middle;">
+</a>
 
 ---
 
