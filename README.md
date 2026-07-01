@@ -1,4 +1,4 @@
-👋 I'm Aaron, M1 student in Distributed Artificial Intelligence at Université Paris Cité. My core interests & work involve: Symbolic AI, Machine Learning, Multi-Agent Systems, Generative AI, and Data Science.
+👋 I'm Aaron, M2 student in Artificial Intelligence, Systems, and Data (IASD) at Université PSL (co-accredited by Dauphine, ENS & Mines Paris). My core interests and work involve: Deep Learning, Machine Learning, AI Systems, Generative AI, and Data.
 
 🤝 Open to internships & collaborations.
 &nbsp; <a href="https://www.linkedin.com/in/aaidoudi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="18"></a> &nbsp; <a href="https://www.kaggle.com/aaidoudi"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="18"></a>
