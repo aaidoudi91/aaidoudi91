@@ -1,7 +1,6 @@
-👋 I'm Aaron, M2 student in Artificial Intelligence, Systems, and Data (IASD) at Université PSL (co-accredited by Dauphine, ENS & Mines Paris). My core interests and work involve: Learning Theory, Large Language Models, Deep Learning for Vision and Reinforcement Learning.
+M2 student in Artificial Intelligence, Systems, and Data (IASD) at Université PSL (co-accredited by Dauphine, ENS & Mines Paris). My core interests and work involve: Learning Theory, Large Language Models, Deep Learning for Vision and Reinforcement Learning.
 
-🤝 Open to internships & collaborations.
-&nbsp; <a href="https://www.linkedin.com/in/aaidoudi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="18"></a> &nbsp; <a href="https://www.kaggle.com/aaidoudi"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="18"></a>
+Open to internships & collaborations.
 
 ---
 
